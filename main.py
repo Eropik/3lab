@@ -29,7 +29,6 @@ match ch:
             else:
                 break
         file1.close()
-
     case 3:
         def list_sum(lst):
             sum = 0
